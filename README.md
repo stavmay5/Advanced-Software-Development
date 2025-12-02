@@ -43,3 +43,4 @@ The source code is organized into packages:
 ```bash
 javac -d bin src/**/*.java
 java -cp bin config.MainTrain
+```
